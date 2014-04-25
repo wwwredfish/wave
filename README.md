@@ -1,6 +1,8 @@
 wave
 ====
 
+![Wave Awesome WM theme by wwwredfish](screenshot.png)
+
 ### Install
 Install this awesome theme as normal. Place the wave directory
 in your themes directory, such as ~/.config/awesome/themes, and update your
